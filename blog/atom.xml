@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chenerlang666.github.io/blog</id>
+    <title>chenerlang666 Blog</title>
+    <updated>2020-04-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chenerlang666.github.io/blog"/>
+    <subtitle>chenerlang666 Blog</subtitle>
+    <icon>https://chenerlang666.github.io/img/favicon.ico</icon>
+    <rights>Copyright © 2022 一口闰心</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在10分钟内用Docusaurus部署个人网站+博客]]></title>
+        <id>home-page</id>
+        <link href="https://chenerlang666.github.io/blog/home-page"/>
+        <updated>2020-04-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[# 如何在10分钟内使用Docusaurus搭建你的个人网站并免费部署到GitHub Pages]]></summary>
+    </entry>
+</feed>

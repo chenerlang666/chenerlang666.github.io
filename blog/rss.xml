@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>chenerlang666 Blog</title>
+        <link>https://chenerlang666.github.io/blog</link>
+        <description>chenerlang666 Blog</description>
+        <lastBuildDate>Mon, 13 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2022 一口闰心</copyright>
+        <item>
+            <title><![CDATA[如何在10分钟内用Docusaurus部署个人网站+博客]]></title>
+            <link>https://chenerlang666.github.io/blog/home-page</link>
+            <guid>home-page</guid>
+            <pubDate>Mon, 13 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[# 如何在10分钟内使用Docusaurus搭建你的个人网站并免费部署到GitHub Pages]]></description>
+        </item>
+    </channel>
+</rss>
